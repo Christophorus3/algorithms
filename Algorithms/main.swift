@@ -10,3 +10,4 @@ import Foundation
 
 print("Hello, World!")
 
+print(binarySearch(for: 21, in: numbers))
